@@ -1,0 +1,4 @@
+.vscode/
+backup/
+node_modules/
+*.vsix
