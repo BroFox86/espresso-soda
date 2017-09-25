@@ -1,0 +1,27 @@
+{
+    "name": "theme-espresso-soda-light",
+    "displayName": "Espresso Soda Light",
+    "description": "Converted theme for VSC from the original Sublime Text Soda Theme using Yeoman generator",
+    "version": "0.1.0",
+    "publisher": "brofox86",
+    "engines": {
+        "vscode": "^1.16.0"
+    },
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/BroFox86/theme-espresso-soda-light"
+	},
+    "categories": [
+        "Themes"
+    ],
+    "icon": "icon.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Espresso Soda Light",
+                "uiTheme": "vs",
+                "path": "./themes/theme-espresso-soda-light.json"
+            }
+        ]
+    }
+}
