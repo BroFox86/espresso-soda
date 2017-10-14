@@ -381,6 +381,12 @@
       "settings": {
         "foreground": "#43A202"
       }
+    },
+    {
+      "scope": "meta.property-value.less",
+      "settings": {
+        "foreground": "#61862F"
+      }
     }
   ],
   "colors": {
