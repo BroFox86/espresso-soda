@@ -1,17 +1,21 @@
-<div align="center"><img width="1000" src="https://github.com/BroFox86/theme-espresso-soda-light/raw/master/logo.png">
+<div align="center"><img width="600" src="https://github.com/BroFox86/espresso-soda/raw/master/logo.png">
 </div>
 
 This is a converted syntax theme for Visual Studio Code from 
 the original [Soda Theme](https://github.com/buymeasoda/soda-theme) 
-using [Yeoman generator](https://github.com/Microsoft/vscode-docs/blob/0.9.0/release-notes/latest.md#yo-code---streamlined-customizations-for-vs-code) and based on the Light+ (default) theme.
+using Yeoman generator and based on the Light+ (default) theme.
 Also available <img src="https://github.com/BroFox86/theme-espresso-soda-solarized/raw/master/icon-small.png" width=16 height=16/> [Solarized Espresso Soda](https://marketplace.visualstudio.com/items?itemName=brofox86.theme-espresso-soda-solarized) which based on the default Solarized Light theme.
 
 
 ## Screenshots
 
-![Screenshot](https://github.com/BroFox86/theme-espresso-soda-light/raw/master/screenshots/screenshot_01.png)
-![Screenshot](https://github.com/BroFox86/theme-espresso-soda-light/raw/master/screenshots/screenshot_02.png)
-![Screenshot](https://github.com/BroFox86/theme-espresso-soda-light/raw/master/screenshots/screenshot_03.png)
+![Screenshot](https://github.com/BroFox86/espresso-soda/raw/master/screenshots/screenshot_01.png)
+![Screenshot](https://github.com/BroFox86/espresso-soda/raw/master/screenshots/screenshot_02.png)
+![Screenshot](https://github.com/BroFox86/espresso-soda/raw/master/screenshots/screenshot_03.png)
+
+## Less syntax highlighting
+
+I recommend install [better-less](https://marketplace.visualstudio.com/items?itemName=radium-v.better-less) extension together with this theme for properly highlight Less syntax in VSC. 
 
 ## Installation
 
@@ -26,10 +30,6 @@ a) After install the theme, launch *Command Palette*
 * <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> [Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf): `Ctrl+P`
 
 b) Type `theme` and choose `Preferences: Color Theme`, then select this theme from the list.
-
-## For Less users
-
-Theme is designed for use together with [better-less](https://marketplace.visualstudio.com/items?itemName=radium-v.better-less) in the Less syntax for properly highlighting. 
 
 ## Customization
 
@@ -56,14 +56,6 @@ For example, the code below in the config.json file *(Preferences > Settings)* w
 
 The scopes are identified by using *Command Palette > Developer: Inspect TM Scopes*.
 
-## Inconsistencies?
-
-It's impossible now to fully match to the original theme, because the scope colours in VSC aren't enough customizable as in Sublime Text or Textmate. Use customization if you prefer other colors instead of provided by this theme.
-
 ## Contribution
 
-Report issues/bugs to the [issue tracker](https://github.com/BroFox86/theme-espresso-soda-light/issues).
-
-## What is the icon theme on your screenshots?
-
-I use [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons).
+Report issues/bugs to the [issue tracker](https://github.com/BroFox86/espresso-soda/issues).
