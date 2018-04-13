@@ -376,16 +376,40 @@
       }
     },
     {
-      "name": "Less: Numeric & Units",
+      "name": "Less: Numeric values & other units",
       "scope": "constant.numeric.less, keyword.other.unit.less",
       "settings": {
         "foreground": "#43A202"
       }
     },
     {
+      "name": "Less: Property value",
       "scope": "meta.property-value.less",
       "settings": {
         "foreground": "#61862F"
+      }
+    },
+    {
+      "name": "SCSS: Extended class name",
+      "scope":
+        "entity.other.attribute-name.parent-selector-suffix.css punctuation.definition.entity.css",
+      "settings": {
+        "foreground": "#4F9FCF"
+      }
+    },
+    {
+      "name": "SCSS: Mixin color",
+      "scope": "entity.name.function.scss",
+      "settings": {
+        "foreground": "#6700B9"
+      }
+    },
+    {
+      "name": "SCSS: Numeric values",
+      "scope":
+        "source.css.scss keyword.other.unit.px.css, source.css.scss constant.numeric.css, source.css.scss keyword.other.unit.s.css",
+      "settings": {
+        "foreground": "#43A202"
       }
     }
   ],

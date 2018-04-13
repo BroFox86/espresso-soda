@@ -34,7 +34,7 @@ b) Type `theme` and choose `Preferences: Color Theme`, then select this theme fr
 ## Customization
 
 You can customize the colours to your liking, overriding the ones provided by this theme or extending them. 
-More info [here](https://code.visualstudio.com/docs/getstarted/theme-color-reference). 
+More info [here](https://code.visualstudio.com/docs/getstarted/themes). 
 
 For example, the code below in the config.json file *(Preferences > Settings)* will change the sidebar item text colour to black and make the CSS tag colour blue:
 
@@ -58,4 +58,4 @@ The scopes are identified by using *Command Palette > Developer: Inspect TM Scop
 
 ## Contribution
 
-Report issues/bugs to the [issue tracker](https://github.com/BroFox86/espresso-soda/issues).
+Report issues, bugs and grammar mistakes to the [issue tracker](https://github.com/BroFox86/espresso-soda/issues).
