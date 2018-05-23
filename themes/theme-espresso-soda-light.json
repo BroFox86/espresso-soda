@@ -411,6 +411,48 @@
       "settings": {
         "foreground": "#43A202"
       }
+    },
+    {
+      "name": "SCSS: Variable parameter",
+      "scope": "variable.parameter.url.scss",
+      "settings": {
+        "foreground": "#000"
+      }
+    },
+    {
+      "name": "SCSS: Colour values",
+      "scope": "constant.other.color.rgb-value.hex.css punctuation.definition.constant.css, constant.other.color.rgb-value.hex.css",
+      "settings": {
+        "foreground": "#43A202"
+      }
+    },
+    {
+      "name": "SCSS: Class name dots",
+      "scope": "entity.other.attribute-name.class.css punctuation.definition.entity.css",
+      "settings": {
+        "foreground": "#4F9FCF"
+      }
+    },
+    {
+      "name": "SCSS: @-prefixes",
+      "scope": "keyword.control.at-rule.include.scss punctuation.definition.keyword.scss, keyword.control.at-rule.extend.scss punctuation.definition.keyword.scss, keyword.control.at-rule.keyframes.scss punctuation.definition.keyword.scss, keyword.control.at-rule.fontface.scss punctuation.definition.keyword.scss, keyword.control.at-rule.media.scss punctuation.definition.keyword.scss",
+      "settings": {
+        "foreground": "#61862F"
+      }
+    },
+    {
+      "name": "SCSS: Placeholder %-prefix",
+      "scope": "source.css.scss entity.other.attribute-name.placeholder.css punctuation.definition.entity.css",
+      "settings": {
+        "foreground": "#4F9FCF"
+      }
+    },
+    {
+      "name": "SCSS: Support functions",
+      "scope": "support.function.misc.scss",
+      "settings": {
+        "foreground": "#7653C1"
+      }
     }
   ],
   "colors": {
