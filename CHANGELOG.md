@@ -1,5 +1,12 @@
 # Change Log
 
+## 3.0.0 (2018-06-16)
+* Enhancement: Pug syntax highlighting is fully reworked with intend to reduce excessive amount of similar to each other blue colours
+* Enhancement: Added CSS syntax support
+* Enhancement: Updated Less support
+* Enhancement: Added several new colours
+* Other: Changed some colours to match to the original Espresso Soda syntax theme
+
 ## 2.2.0 (2018-05-23)
 * Enhancement [SCSS]: Added appropriate colours to `@` and `%` prefixes
 * Enhancement [SCSS]: Added the colour to `@extend value`
