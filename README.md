@@ -1,7 +1,7 @@
 <div align="center"><img width="600" src="https://github.com/BroFox86/espresso-soda/raw/master/logo.png">
 </div>
 
-This is a colour theme for MS Visual Studio Code editor. Basically the theme is converted from 
+This is a color theme for MS Visual Studio Code editor. Basically the theme is converted from 
 the original [Soda](https://github.com/buymeasoda/soda-theme) syntax theme but contains some reworks & improvements and based on the Light+ (default) theme.
 Also available <img src="https://github.com/BroFox86/theme-espresso-soda-solarized/raw/master/icon-small.png" width=16 height=16/> [Solarized Espresso Soda](https://marketplace.visualstudio.com/items?itemName=brofox86.theme-espresso-soda-solarized) that based on the default Solarized Light theme.
 
@@ -39,10 +39,10 @@ b) Type `theme` and choose `Preferences: Color Theme`, then select this theme fr
 
 ## Customization
 
-You can customize the colours to your liking, overriding the ones provided by this theme or extending them. 
+You can customize the colors to your liking, overriding the ones provided by this theme or extending them. 
 More info [here](https://code.visualstudio.com/docs/getstarted/themes). 
 
-For example, the code below in the config.json file *(Preferences > Settings)* will change the sidebar item text colour to black and make the CSS tag colour dark green:
+For example, the code below in the config.json file *(Preferences > Settings)* will change the sidebar item text color to black and make the CSS tag color dark green:
 
 ```
 "workbench.colorCustomizations": {

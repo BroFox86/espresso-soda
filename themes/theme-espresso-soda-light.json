@@ -347,7 +347,7 @@
       "name": "PUG: Mixins",
       "scope": "entity.name.function.pug",
       "settings": {
-        "foreground": "#7653C1"
+        "foreground": "#9C27B0"
       }
     },
     {

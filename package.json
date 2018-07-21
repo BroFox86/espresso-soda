@@ -4,7 +4,7 @@
   "description":
     "Converted syntax theme for VSC from the original Soda Theme available for Sublime Text editor",
   "author": "Daur Gamisonia",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "publisher": "brofox86",
   "engines": {
     "vscode": "^1.16.0"
