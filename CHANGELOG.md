@@ -1,36 +1,36 @@
 # Change Log
 
-## 3.0.1 (2018-07-21)
+## v3.0.1 (2018-07-21)
 
-* [PUG]: Changed the mixin color
+* [PUG]: Change the mixin color
 
-## 3.0.0 (2018-06-16)
-* Enhancement: Pug syntax highlighting is fully reworked with intend to reduce excessive amount of similar to each other blue colors
-* Enhancement: Added CSS syntax support
-* Enhancement: Updated Less support
-* Enhancement: Added several new colors
-* Other: Changed some colors to match to the original syntax theme
+## v3.0.0 (2018-06-16)
+* Enhancement: Rework syntax highlighting for Pug
+* Enhancement: Add CSS syntax support
+* Enhancement: Update Less support
+* Enhancement: Add several new colors
+* Other: Change some colors to match to the original syntax theme
 
-## 2.2.0 (2018-05-23)
-* Enhancement [SCSS]: Added appropriate colors to `@` and `%` prefixes
-* Enhancement [SCSS]: Added the color to `@extend value`
-* Enhancement [SCSS]: Added colors to `.className` dots
-* Other [SCSS]: Changed the support function color (`darken()`, `rgba()` etc.)
-* Fix [SCSS]: Fixed some wrong colors in several places such as the hex value color after a variable
+## v2.2.0 (2018-05-23)
+* Enhancement [SCSS]: Add colors to `@` and `%` prefixes
+* Enhancement [SCSS]: Add the color to `@extend value`
+* Enhancement [SCSS]: Add colors to `.className` dots
+* Other [SCSS]: Change the support function color (`darken()`, `rgba()` etc.)
+* Fix [SCSS]: Add some colors in several places such as a hex value color after a variable
 
-## 2.1.0 (2018-04-13)
-* Enhancement: Added SCSS support
+## v2.1.0 (2018-04-13)
+* Enhancement: Add SCSS support
 
-## 2.0.0
-* Fix [JS]: Reverted some scope colors
-* Enhancement [JS/CSS/LESS]: Added & changed some colors to match to the original syntax theme
-* Other: Removed [better-less](https://marketplace.visualstudio.com/items?itemName=radium-v.better-less) extension from dependencies. It is optional now and recommended for Less users
-* Other: Removed unused background declarations from the json file of the theme
+## v2.0.0
+* Other: Remove [better-less](https://marketplace.visualstudio.com/items?itemName=radium-v.better-less) from dependencies. It's optional now.
+* Enhancement [JS/CSS/LESS]: Add & change some colors to match to the original syntax theme
+* Other: Remove unused background declarations from the json file of the theme
+* Fix [JS]: Revert some colors
 
-## 1.0.0
-* Fix: Changed the invalid character color (the `invalid.illegal` scope)
-* Enhancement [Less]: Added the [better-less](https://marketplace.visualstudio.com/items?itemName=radium-v.better-less) extension as dependence to improve Less syntax highlighting
-* Enhancement [CSS/LESS]: Added & changed a few colors to match to the original syntax theme
+## v1.0.0
+* Fix: Change the invalid character color
+* Enhancement [Less]: Add [better-less](https://marketplace.visualstudio.com/items?itemName=radium-v.better-less) as dependence to improve syntax highlighting for Less
+* Enhancement [CSS/LESS]: Add & change a few colors to match to the original syntax theme
 
-## 0.1.0
+## v0.1.0
 Initial version
