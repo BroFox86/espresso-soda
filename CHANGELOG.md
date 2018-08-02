@@ -1,24 +1,23 @@
 # Change Log
 
-## v3.0.1 (2018-07-21)
-
+## v3.0.1 (21-07-2018)
 * [PUG]: Change the mixin color
 
-## v3.0.0 (2018-06-16)
+## v3.0.0 (16-06-2018)
 * Enhancement: Rework syntax highlighting for Pug
 * Enhancement: Add CSS syntax support
 * Enhancement: Update Less support
 * Enhancement: Add several new colors
 * Other: Change some colors to match to the original syntax theme
 
-## v2.2.0 (2018-05-23)
+## v2.2.0 (23-05-2018)
 * Enhancement [SCSS]: Add colors to `@` and `%` prefixes
 * Enhancement [SCSS]: Add the color to `@extend value`
 * Enhancement [SCSS]: Add colors to `.className` dots
 * Other [SCSS]: Change the support function color (`darken()`, `rgba()` etc.)
-* Fix [SCSS]: Add some colors in several places such as a hex value color after a variable
+* Fix [SCSS]: Add appropriate colors in several cases such as a hex value color after a variable
 
-## v2.1.0 (2018-04-13)
+## v2.1.0 (13-04-2018)
 * Enhancement: Add SCSS support
 
 ## v2.0.0
