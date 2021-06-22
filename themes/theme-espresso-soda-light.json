@@ -544,9 +544,16 @@
     "editorCursor.foreground": "#000000",
     "editor.foreground": "#000000",
     "editorWhitespace.foreground": "#E0E0E0",
-    "editor.lineHighlightBackground": "#A5A5A526",
+    "editor.lineHighlightBackground": "#FAF2CA",
     "editor.selectionBackground": "#C2E8FF",
-    "editor.inactiveSelectionBackground": "#EDEDED"
+    "editor.inactiveSelectionBackground": "#EDEDED",
+    "list.focusHighlightForeground": "#6700B9",
+    "quickInputList.focusBackground": "#FAF2CA",
+    "quickInputList.focusForeground": "#7653C1",
+    "editorSuggestWidget.focusHighlightForeground": "#6700B9",
+    "editorSuggestWidget.highlightForeground": "#7653C1",
+    "editorSuggestWidget.selectedForeground": "#7653C1",
+    "editorSuggestWidget.selectedBackground": "#B8E9FF"
   },
   "name": "Espresso Soda"
 }
