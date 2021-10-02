@@ -1,5 +1,14 @@
 # Change Log
 
+## v3.0.4 (02-10-2021)
+Update the list tree background color, activity bar color and button status bar color. These changes match the general light aesthetic of the Espresso-soda theme and the original UI of the [Espresso editor](https://www.espressoapp.com/), the app from which this theme was ported.
+
+## v3.0.3 (22-06-2021)
+*  Fix: Add improved colors for the Command Palette
+
+## v3.0.1 (21-07-2018)
+* [PUG]: Change the mixin color
+
 ## v3.0.1 (21-07-2018)
 * [PUG]: Change the mixin color
 

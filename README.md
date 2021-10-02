@@ -7,19 +7,16 @@ Also available <img src="https://github.com/BroFox86/theme-espresso-soda-solariz
 
 ## Screenshots
 
-*Java Script:*<br>
-![Screenshot](https://github.com/BroFox86/espresso-soda/raw/master/screenshots/js.png)
+*TSX (React.JS) and SCSS:*<br>
+![Screenshot](https://github.com/BroFox86/espresso-soda/raw/master/screenshots/tsx-and-scss.png)
+
+*HTML and SCSS:*<br>
+![Screenshot](https://github.com/BroFox86/espresso-soda/raw/master/screenshots/html-and-scss.png)
 
 *Pug (manually reworked):*<br>
 ![Screenshot](https://github.com/BroFox86/espresso-soda/raw/master/screenshots/pug.png)
 
-*SCSS (CSS and Less are also supported):*<br>
-![Screenshot](https://github.com/BroFox86/espresso-soda/raw/master/screenshots/scss.png)
-
-*HTML:*<br>
-![Screenshot](https://github.com/BroFox86/espresso-soda/raw/master/screenshots/html.png)
-
-## Less syntax
+## 'Less' syntax
 
 I recommend install [better-less](https://marketplace.visualstudio.com/items?itemName=radium-v.better-less) extension together with this theme for properly highlight Less syntax in VSC. 
 

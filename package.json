@@ -4,7 +4,7 @@
   "description":
     "Converted syntax theme for VSC from the original Soda Theme available for Sublime Text editor",
   "author": "Daur Gamisonia",
-  "version": "3.0.1",
+  "version": "3.0.4",
   "publisher": "brofox86",
   "engines": {
     "vscode": "^1.16.0"
@@ -18,13 +18,13 @@
     "color": "#3699B5",
     "theme": "dark"
   },
-  "icon": "icon.png",
+  "icon": "icon-small.png",
   "contributes": {
     "themes": [
       {
         "label": "Espresso Soda",
         "uiTheme": "vs",
-        "path": "./themes/theme-espresso-soda-light.json"
+        "path": "./theme-espresso-soda-light.json"
       }
     ]
   }
