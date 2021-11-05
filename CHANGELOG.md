@@ -1,6 +1,9 @@
-# Change Log
+# Changelog
 
-## v3.0.4 (02-10-2021)
+## v3.0.6 (05-11-2021)
+Fix scrollbar color. Pick the new color from [Espresso editor](https://www.espressoapp.com/).
+
+## v3.0.4/v3.0.5 (02-10-2021)
 Update the list tree background color, activity bar color and button status bar color. These changes match the general light aesthetic of the Espresso-soda theme and the original UI of the [Espresso editor](https://www.espressoapp.com/), the app from which this theme was ported.
 
 ## v3.0.3 (22-06-2021)
