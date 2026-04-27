@@ -1,10 +1,9 @@
 {
   "name": "theme-espresso-soda-light",
   "displayName": "Espresso Soda",
-  "description":
-    "Converted syntax theme for VSC from the original Soda Theme available for Sublime Text editor",
+  "description": "Color theme for the VSCode editor. Heavily inspired by the Espresso syntax theme",
   "author": "Daur Gamisonia",
-  "version": "3.0.6",
+  "version": "3.0.7",
   "publisher": "brofox86",
   "engines": {
     "vscode": "^1.16.0"
@@ -13,12 +12,14 @@
     "type": "git",
     "url": "https://github.com/BroFox86/espresso-soda/"
   },
-  "categories": ["Themes"],
+  "categories": [
+    "Themes"
+  ],
   "galleryBanner": {
     "color": "#3699B5",
     "theme": "dark"
   },
-  "icon": "icon-small.png",
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
